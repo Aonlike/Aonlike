@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aonlike
-- 👀 I’m interested in Tech
+- 👀 Java and Python ...bring it on
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on more projects
 - 📫 How to reach me 09066883142
